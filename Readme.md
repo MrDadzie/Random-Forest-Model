@@ -14,6 +14,8 @@
 *6. Training ML and Validation*
 *7. Testing and model Evaluation*
 
+## Author
+Mr. Dadzie
 
 
 
